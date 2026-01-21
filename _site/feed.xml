@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-01-21T16:35:45-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Saaketh Reddy</title><subtitle>Personal Portfolio &amp; Projects</subtitle><author><name>Saaketh Reddy</name></author><entry><title type="html">Sample Blog Post</title><link href="http://localhost:4000/blog/update/2026/01/21/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Sample Blog Post" /><published>2026-01-21T00:00:00-05:00</published><updated>2026-01-21T00:00:00-05:00</updated><id>http://localhost:4000/blog/update/2026/01/21/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/update/2026/01/21/welcome-to-jekyll.html"><![CDATA[<h1 id="sample-blog-post">Sample Blog Post</h1>
+
+<p>This is a sample blog post. You can create new blog posts by adding files to the <code class="language-plaintext highlighter-rouge">_posts</code> directory following the naming convention: <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-title.md</code></p>
+
+<h2 id="using-jekyll-templates">Using Jekyll Templates</h2>
+
+<p>With Jekyll, you can now:</p>
+<ul>
+  <li>Create reusable layouts and includes</li>
+  <li>Use variables from <code class="language-plaintext highlighter-rouge">_config.yml</code></li>
+  <li>Write blog posts in Markdown</li>
+  <li>Use Liquid templating for dynamic content</li>
+</ul>
+
+<h2 id="getting-started">Getting Started</h2>
+
+<ol>
+  <li>Edit <code class="language-plaintext highlighter-rouge">_config.yml</code> to customize your site settings</li>
+  <li>Modify layouts in <code class="language-plaintext highlighter-rouge">_layouts/</code> directory</li>
+  <li>Add reusable components in <code class="language-plaintext highlighter-rouge">_includes/</code></li>
+  <li>Write blog posts in <code class="language-plaintext highlighter-rouge">_posts/</code> following the naming convention</li>
+</ol>
+
+<p>Happy building!</p>]]></content><author><name>Saaketh Reddy</name></author><category term="blog" /><category term="update" /><summary type="html"><![CDATA[Sample Blog Post]]></summary></entry></feed>

@@ -1,0 +1,76 @@
+[ 
+ 
+{ 
+"title"    : "Sample Blog Post", 
+"desc"     : "Sample Blog Post", 
+"category" : "", 
+"url"      : "/blog/update/2026/01/21/welcome-to-jekyll.html", 
+"date"     : "January 21, 2026" 
+}, 
+ 
+ 
+{ 
+"title"    : "Work Experience", 
+"desc"     : "Work Experience", 
+"category" : "page", 
+"url"      : "/work-experience/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Contact", 
+"desc"     : "Contact", 
+"category" : "page", 
+"url"      : "/contact/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Education", 
+"desc"     : "Education", 
+"category" : "page", 
+"url"      : "/education/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Hobbies", 
+"desc"     : "Hobbies", 
+"category" : "page", 
+"url"      : "/hobbies/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Saaketh Reddy | Portfolio", 
+"desc"     : "Saaketh Reddy | Portfolio", 
+"category" : "page", 
+"url"      : "/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "About Me", 
+"desc"     : "About Me", 
+"category" : "page", 
+"url"      : "/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Projects", 
+"desc"     : "Projects", 
+"category" : "page", 
+"url"      : "/projects/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Research", 
+"desc"     : "Research", 
+"category" : "page", 
+"url"      : "/research/", 
+"date"     : "January 1, 1970" 
+} 
+ 
+]
