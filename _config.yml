@@ -13,6 +13,7 @@ navbar-links:
   Research: "research"
   Projects: "projects"
   Work Experience: "work-experience"
+  C.V.: "cv"
 
 
 # Build settings

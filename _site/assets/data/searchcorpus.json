@@ -10,6 +10,14 @@
  
  
 { 
+"title"    : "Curriculum Vitae", 
+"desc"     : "Curriculum Vitae", 
+"category" : "page", 
+"url"      : "/cv/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
 "title"    : "Education", 
 "desc"     : "Education", 
 "category" : "page", 

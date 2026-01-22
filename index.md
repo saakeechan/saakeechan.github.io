@@ -152,6 +152,8 @@ permalink: /
       <p style="margin: 10px 0;"><strong>Connect:</strong><br>
       <a href="https://github.com/saakeechan" target="_blank">GitHub</a><br>
       <a href="https://www.linkedin.com/in/saakethcreddy/" target="_blank">LinkedIn</a></p>
+      
+      <p style="margin: 10px 0;"><a href="/cv" style="display: inline-block; padding: 10px 20px; background-color: #667eea; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; text-align: center;">📄 View C.V.</a></p>
     </div>
   </div>
 </div>

@@ -356,3 +356,124 @@ Worked with tactile sensing technology to enable robots to perceive surface text
   
   <div class="dots" id="dots-slideshow6"></div>
 </div>
+
+---
+
+## Auriga
+Coilgun company
+
+**Technologies:** Mechanical Design, Manufacturing, Electronics
+
+<div class="slideshow-container" id="slideshow7">
+
+  <div class="slide active">
+    <video controls>
+      <source src="/assets/figures/aurigaBikeBeingStolen.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p class="slide-caption">Vehicle demonstration</p>
+  </div>
+
+  <div class="slide">
+    <video controls>
+      <source src="/assets/figures/aurigaHelicoilVideo.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p class="slide-caption">Helicoil installation process</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/auriga3DPrinters.jpg" alt="3D printers">
+    <p class="slide-caption">3D printing setup for component fabrication</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/aurigaBusbar.jpg" alt="Busbar">
+    <p class="slide-caption">Busbar assembly for electrical connections</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/aurigaCapacitorPlacement.png" alt="Capacitor placement">
+    <p class="slide-caption">Capacitor placement design</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/aurigaCoilSeperator.jpg" alt="Coil separator">
+    <p class="slide-caption">Coil separator component</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/aurigaCoilStraightner.jpg" alt="Coil straightener">
+    <p class="slide-caption">Coil straightening tool</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/aurigaDoubleCoil.jpg" alt="Double coil">
+    <p class="slide-caption">Double coil configuration</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/aurigaElectronicHolder.jpg" alt="Electronic holder">
+    <p class="slide-caption">Electronic component holder design</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/aurigaElectronicHolders2.jpg" alt="Electronic holders 2">
+    <p class="slide-caption">Additional electronic holder configurations</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/aurigaHelicoilInProgress.jpg" alt="Helicoil in progress">
+    <p class="slide-caption">Helicoil installation in progress</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/aurigaLightCollimatingSetup.jpg" alt="Light collimating setup">
+    <p class="slide-caption">Light collimating setup for measurements</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/aurigaMillPic.jpeg" alt="Mill picture">
+    <p class="slide-caption">Milling operations</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/aurigaOscillioscope.jpg" alt="Oscilloscope">
+    <p class="slide-caption">Oscilloscope testing and diagnostics</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/aurigaPerfectCoil.jpg" alt="Perfect coil">
+    <p class="slide-caption">Finished coil assembly</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/aurigaPliers.jpg" alt="Pliers">
+    <p class="slide-caption">Custom tooling for assembly</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/aurigaResinPrintedCoil.jpg" alt="Resin printed coil">
+    <p class="slide-caption">Resin printed coil components</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/aurigaResinPrinting.jpg" alt="Resin printing">
+    <p class="slide-caption">Resin printing process</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/aurigaSheetMetal.jpg" alt="Sheet metal">
+    <p class="slide-caption">Sheet metal fabrication</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/aurigaWhiteBoard.png" alt="Whiteboard">
+    <p class="slide-caption">Design and planning sessions</p>
+  </div>
+  
+  <a class="prev" onclick="changeSlide(-1, 'slideshow7')">❮</a>
+  <a class="next" onclick="changeSlide(1, 'slideshow7')">❯</a>
+  
+  <div class="dots" id="dots-slideshow7"></div>
+</div>
