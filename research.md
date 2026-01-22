@@ -28,11 +28,14 @@ This paper presents a terrain-aware invariant extended Kalman filter (InEKF) tha
 
 *August 2022 – May 2025*
 
-- Implemented an Invariant Extended Kalman Filter (InEKF) for state estimation on the Agility Robotics' Digit, Unitree's G1 and Go2 robots in real time.
+- Implemented an Invariant Extended Kalman Filter (InEKF) for state estimation on the Agility Robotics' Digit, Unitree's G1 and Go2 robots in real time. [View on GitHub →](https://github.com/saakeechan/InEKF)
+
 - Conducted an investigative study of MuJoCo simulation parameters to analyze their effects on Digit's walking behaviors
 - Optimized path planning and obstacle avoidance by implementing object clustering, reducing processing time by 80%
 - Engineered an innovative gear-pulley actuation mechanism for a parallel gripper to precisely track and transmit servo torque
 - Led the creation of silicone molds manufacturing and making
+
+[View Digit in MuJoCo Project →](/projects/#digit-in-mujoco)
 
 ---
 

@@ -274,3 +274,85 @@ A car on omniwheels thats controlled with simply the movement of your arm
   
   <div class="dots" id="dots-slideshow3"></div>
 </div>
+
+---
+
+## Digit in MuJoCo
+Simulated Agility Robotics' Digit humanoid robot in MuJoCo, investigating walking behaviors and optimizing control parameters for robust bipedal locomotion.
+
+**Technologies:** Python, MuJoCo, Control Systems, Robotics
+
+<div class="slideshow-container" id="slideshow5">
+
+  <div class="slide active">
+    <video controls>
+      <source src="/assets/figures/digitWalkingCloseup.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p class="slide-caption">Close-up view of Digit robot walking in MuJoCo simulation</p>
+  </div>
+
+  <div class="slide">
+    <video controls>
+      <source src="/assets/figures/digitWalkingSlope.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p class="slide-caption">Digit walking on sloped terrain</p>
+  </div>
+
+  <div class="slide">
+    <video controls>
+      <source src="/assets/figures/digitWalkingWithParameters.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p class="slide-caption">Walking with different parameter configurations</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/digitOptimization.png" alt="Digit optimization">
+    <p class="slide-caption">Parameter optimization results for walking behavior</p>
+  </div>
+  
+  <a class="prev" onclick="changeSlide(-1, 'slideshow5')">❮</a>
+  <a class="next" onclick="changeSlide(1, 'slideshow5')">❯</a>
+  
+  <div class="dots" id="dots-slideshow5"></div>
+</div>
+
+---
+
+## GelSight
+Worked with tactile sensing technology to enable robots to perceive surface textures and deformations through touch, enhancing manipulation capabilities.
+
+**Technologies:** Python, Computer Vision, ROS
+
+<div class="slideshow-container" id="slideshow6">
+
+  <div class="slide active">
+    <video controls>
+      <source src="/assets/figures/gelsightGearPulley.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p class="slide-caption">Gear pulley mechanism demonstration</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/gelsightCablePulley.png" alt="GelSight cable pulley">
+    <p class="slide-caption">Cable pulley system design</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/gelsightPolymer.png" alt="GelSight polymer">
+    <p class="slide-caption">Polymer material used for tactile sensing</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/gelsightCreepyUncle.jpg" alt="GelSight application">
+    <p class="slide-caption">GelSight sensor application</p>
+  </div>
+  
+  <a class="prev" onclick="changeSlide(-1, 'slideshow6')">❮</a>
+  <a class="next" onclick="changeSlide(1, 'slideshow6')">❯</a>
+  
+  <div class="dots" id="dots-slideshow6"></div>
+</div>
