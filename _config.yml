@@ -8,7 +8,7 @@ baseurl: ""
 
 # Navigation menu
 navbar-links:
-  About Me: "/"
+  Home: "/"
   Education: "education"
   Projects: "projects"
   Work Experience: "work-experience"

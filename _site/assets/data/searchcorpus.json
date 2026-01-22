@@ -10,14 +10,6 @@
  
  
 { 
-"title"    : "Work Experience", 
-"desc"     : "Work Experience", 
-"category" : "page", 
-"url"      : "/work-experience/", 
-"date"     : "January 1, 1970" 
-}, 
- 
-{ 
 "title"    : "Contact", 
 "desc"     : "Contact", 
 "category" : "page", 
@@ -42,8 +34,8 @@
 }, 
  
 { 
-"title"    : "About Me", 
-"desc"     : "About Me", 
+"title"    : "Home", 
+"desc"     : "Home", 
 "category" : "page", 
 "url"      : "/", 
 "date"     : "January 1, 1970" 
@@ -62,6 +54,14 @@
 "desc"     : "Research", 
 "category" : "page", 
 "url"      : "/research/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Work Experience", 
+"desc"     : "Work Experience", 
+"category" : "page", 
+"url"      : "/work-experience/", 
 "date"     : "January 1, 1970" 
 } 
  

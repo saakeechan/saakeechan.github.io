@@ -56,6 +56,7 @@ permalink: /education/
 **[Georgia Institute of Technology](https://www.gatech.edu/)**  
 *Graduated: May 2025*  
 **GPA:** 3.9/4.0  
+*Highest Honors*
 *Faculty Honors x 6*  
 *Dean's List x 3*
 
@@ -70,7 +71,8 @@ permalink: /education/
 *Dynamics of Mechanical Systems*  
 *Robotics*  
 *Mechatronics*  
-*Machine Design*
+*Machine Design*  
+*Thermal Fluid Sciences*
 
 
 </div>
