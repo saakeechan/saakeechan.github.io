@@ -6,12 +6,12 @@ permalink: /work-experience/
 
 # Work Experience
 
-### [Woodruff School of Mechanical Engineering]((https://www.me.gatech.edu/))
+### [Woodruff School of Mechanical Engineering](https://www.me.gatech.edu/)
 **Position:** Graduate Teaching Assistant for System Dynamics  
 **Duration:** Fall 2025 - Spring 2026   
 **Location:** Atlanta, GA
 
-Led weekly recitation sessions and office hours across all four course sections, covering Laplace analysis, state-space modeling, and system stability. Built a foundation in control systems for undergraduate students as well as my self. Mastered topics in [course syllabus](/assets/syllabus-pdfs/system-dynamics-syllabus.pdf)
+Led weekly recitation sessions and office hours across all four course sections. Built a foundation in control systems for undergraduate students as well as my self. Mastered topics in classical control, system modeling (mechanical, electrical, electro-mechanical, fluid, and thermal), Laplace and state-space methods, time/frequency response, vibrations, feedback control, stability, and steady-state error analysis.
 
 ---
 
@@ -20,9 +20,8 @@ Led weekly recitation sessions and office hours across all four course sections,
 **Duration:** Fall 2023 - Present  
 **Location:** Atlanta, Ga 
 
-- Helped others make something
-
-**Technologies Used:** [List technologies]
+Train 20+ students weekly on the use of various rapid prototyping tools and Design for X.  
+ Tools include 3D printers, waterjet, electronic equipment, metal & wood working tools, and many more.
 
 ---
 
@@ -31,7 +30,7 @@ Led weekly recitation sessions and office hours across all four course sections,
 **Duration:** Summer 2025    
 **Location:** Atlanta, GA 
 
-- Became Proficient in printing
+Worked at a customer service front desk assisting clients with printing, editing, and poster design, while operating and maintaining three large-format poster printers.
 
 ---
 
@@ -62,9 +61,10 @@ Led weekly recitation sessions and office hours across all four course sections,
 **Duration:** Summer 2023 & Summer 2024  
 **Location:** Livermore, CA 
 
-- Made something and documented it
-
-**Technologies Used:** [List technologies]
+-  Defined end-to-end requirements and test procedures for thermal and lifting-ring strength evaluations of a classified gas detector by thoroughly reviewing and synthesizing numerous DoD test methods and specifications, then designed a compliant test approach from the ground up.
+- Designed 3 unique fixtures for vibration testing of telemetry assemblies. Performed modal & structural analysis in Creo to ensure fixture integrity. Produced machine drawings with GD&T annotations 
+- Automated vibration & shock test data analysis using MATLAB, cutting work time by 75% and saving 20+ hours weekly 
+- Partnered with PelicanTM to design and engineer a foam shipping container, safeguarding a multi-million-dollar telemetry assembly from impacts, vibrations, and ESD during transport 
 
 ---
 
@@ -73,8 +73,10 @@ Led weekly recitation sessions and office hours across all four course sections,
 **Duration:** Spring 2024  
 **Location:** Smyrna, CA 
 
-- Made something not exploded not explode
+[Wendy N. Newcomb, Saaketh Reddy, Aprameya Satish, Alessio Medda; Time-frequency spectral optimization of underwater sonar acoustic returns for the purpose of characterization using spectral descriptors J. Acoust. Soc. Am. 1 October 2024; 156 (4_Supplement): A25–A26](https://doi.org/10.1121/10.0034982)
 
-**Technologies Used:** [List technologies]
+- Developed a MATLAB-based framework to optimize signal detection using the smoothed pseudo Wigner–Ville distribution [(SPWVD)](https://en.wikipedia.org/wiki/Modified_Wigner_distribution_function)
+- Conducted a quantitative comparative study against alternative time–frequency representations to evaluate the impact of the optimization
+
 
 

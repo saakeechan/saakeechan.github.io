@@ -10,26 +10,10 @@
  
  
 { 
-"title"    : "Contact", 
-"desc"     : "Contact", 
-"category" : "page", 
-"url"      : "/contact/", 
-"date"     : "January 1, 1970" 
-}, 
- 
-{ 
 "title"    : "Education", 
 "desc"     : "Education", 
 "category" : "page", 
 "url"      : "/education/", 
-"date"     : "January 1, 1970" 
-}, 
- 
-{ 
-"title"    : "Hobbies", 
-"desc"     : "Hobbies", 
-"category" : "page", 
-"url"      : "/hobbies/", 
 "date"     : "January 1, 1970" 
 }, 
  

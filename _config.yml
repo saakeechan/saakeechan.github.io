@@ -10,11 +10,10 @@ baseurl: ""
 navbar-links:
   Home: "/"
   Education: "education"
+  Research: "research"
   Projects: "projects"
   Work Experience: "work-experience"
-  Research: "research"
-  Hobbies: "hobbies"
-  Contact: "contact"
+
 
 # Build settings
 markdown: kramdown

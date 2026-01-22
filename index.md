@@ -104,8 +104,6 @@ permalink: /
         <li><a href="/work-experience"><span class="link-title">💼 Work Experience</span><span class="link-description">Professional experience</span></a></li>
         <li><a href="/research"><span class="link-title">🔬 Research</span><span class="link-description">Publications, working papers, and research interests</span></a></li>
         <li><a href="/projects"><span class="link-title">🚀 Projects</span><span class="link-description">Technical projects and developments</span></a></li>
-        <li><a href="/hobbies"><span class="link-title">🎨 Hobbies</span><span class="link-description">Personal interests and activities</span></a></li>
-        <li><a href="/contact"><span class="link-title">✉️ Contact</span><span class="link-description">Get in touch with me</span></a></li>
       </ul>
     </div>
 
@@ -122,11 +120,30 @@ permalink: /
     I was born in Orlando, Florida, grew up in Tampa, and later lived in Hyderabad, India until the age of 19. I returned to the U.S. for college and now consider Georgia home.
     </p>
 
+    <h2>Hobbies</h2>
+    <p>
+    My hobbies include swimming, basketball, squash, table tennis, rock climbing, chess, hiking, pool, movies, lifting,.....(pretty much anything physical)
+    </p>
+
 
 
   </div>
   
   <div class="about-image">
     <img src="/assets/figures/facePic.png" alt="Profile Picture">
+    
+    <div style="margin-top: 20px; text-align: left; padding: 15px; background: #f8f9fa; border-radius: 10px;">
+      <h3 style="margin-top: 0; font-size: 1.2em;">Contact</h3>
+      <p style="margin: 10px 0;"><strong>Email:</strong><br>
+      <a href="mailto:saaketh09@gmail.com">saaketh09@gmail.com</a> (personal)<br>
+      <a href="mailto:saaketh@gatech.edu">saaketh@gatech.edu </a>(school)</p>
+      
+      <p style="margin: 10px 0;"><strong>Phone:</strong><br>
+      <a href="tel:+17138858582">+1 (713) 885-8582</a></p>
+      
+      <p style="margin: 10px 0;"><strong>Connect:</strong><br>
+      <a href="https://github.com/saakeechan" target="_blank">GitHub</a><br>
+      <a href="https://www.linkedin.com/in/saakethcreddy/" target="_blank">LinkedIn</a></p>
+    </div>
   </div>
 </div>
