@@ -78,9 +78,11 @@ permalink: /projects/
 </style>
 
 ## Jellyfish inspired soft robot
-I designed and fabricated a jellyfish inspired soft robot that is magnetically actuated, so one can study the efficiency and thrust behavior of jellyfish. [Link to article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=41cBkTsAAAAJ&sortby=pubdate&citation_for_view=41cBkTsAAAAJ:mVmsd5A6BfQC)  
+I designed and fabricated a jellyfish inspired soft robot that is magnetically actuated, so one can study the efficiency and thrust behavior of jellyfish using TOMO PIV. [Link to article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=41cBkTsAAAAJ&sortby=pubdate&citation_for_view=41cBkTsAAAAJ:mVmsd5A6BfQC)  
 
 [Link to Linkedin Post](https://www.linkedin.com/posts/mohammad-mohaghar-58254180_fluiddynamics-softrobotics-biomimicry-ugcPost-7317370218140340226-VcsT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACy4wIsBWSE2KEbvIityOIl0HIDmpJLNE54) 
+
+**Skills:** Leadership, CAD, Rapid Prototyping, Silicone-based polymers 
 
 <div class="slideshow-container" id="slideshow1">
 
@@ -89,7 +91,7 @@ I designed and fabricated a jellyfish inspired soft robot that is magnetically a
       <source src="/assets/figures/swimmingMainVideo.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <p class="slide-caption">After a full semester of many many iterations and back to the white board moments, the robot finally swam. </p>
+    <p class="slide-caption">The black appendages in the robot are filled with magnetic particles (NdFeB) and polarized. The magnetic coils above and below are alternated to move the appendages up and down, allowing the robot to create thrust. </p>
   </div>
 
   <div class="slide">
@@ -99,12 +101,12 @@ I designed and fabricated a jellyfish inspired soft robot that is magnetically a
 
   <div class="slide">
     <img src="/assets/figures/swimmingCadPic.png" alt="Project screenshot 1">
-    <p class="slide-caption">"I was responsible for the mold design, robot fabrication, and the development of a detailed, end-to-end manufacturing procedure. Getting the molds right was the hardest part because we're talking about sub millimeter level precision given the capabilities of makerspace printers. I had to get every chamfer, layer height, material exactly right to pull this off" </p>
+    <p class="slide-caption">"I was responsible for the mold design, robot fabrication, and the development of a detailed, end-to-end manufacturing procedure. Getting the molds right was the hardest part because we're talking about sub millimeter level precision given the capabilities of makerspace printers. I had to get every chamfer, layer height, 3D printing material exactly right to pull this off" </p>
   </div>
 
  <div class="slide">
     <img src="/assets/figures/swimmingFailurePics.png" alt="Project screenshot 1">
-    <p class="slide-caption">A snippet of Murphy's Law: "What could go wrong will go wrong" </p>
+    <p class="slide-caption">A snippet of Murphy's Law: "What could go wrong will go wrong." There were so many things we had to get right with the process like, the material of the mold, temperature of curing, ratio of PDMS to Ecoflex, procedure to demold the fragile robot etc. </p>
   </div>
   
   <div class="slide">
@@ -194,40 +196,42 @@ document.addEventListener('DOMContentLoaded', function() {
 ---
 
 ## Headphones
-Capstone project! Designed and manufactured the complete mechanical parts for a noise cancelling headphones pair. Tried my hand in product design and absolutelly crushed it. Visitors at the expo couldn't believe the headphones were not bought but made.
+Capstone project - decided to dabble in product design! I designed and manufactured all the mechanical components for a noise-canceling headphone pair. Visitors at the expo were amazed that the headphones were made rather than purchased.
 
 [View Presentation (PDF)](/assets/files/headphonesFinalPPT.pdf)
+
+**Skills:** CAD, Multidisciplinary collaboration, Rapid Prototyping, Acoustic Design
 
 <div class="slideshow-container" id="slideshow2">
 
   <div class="slide active">
     <img src="/assets/figures/headphonesPhotoshoot.png" alt="Headphones photoshoot">
-    <p class="slide-caption">Final product photoshoot</p>
+    <p class="slide-caption">Final product photoshoot.</p>
   </div>
 
   <div class="slide">
     <img src="/assets/figures/headphonesIsometricCad.png" alt="Headphones isometric CAD">
-    <p class="slide-caption">Isometric CAD view of the headphones design</p>
+    <p class="slide-caption">Isometric CAD view of the headphones design. The noise cancelling part posed as a challenge because I had to ensure maximum passive noise cancellation to make the job of the EE's easier. This drove my choices in component material, earcup material and sealing of earcup around ear.</p>
   </div>
 
   <div class="slide">
     <img src="/assets/figures/headphonesExplodedView.png" alt="Headphones exploded view">
-    <p class="slide-caption">Exploded view showing all components</p>
+    <p class="slide-caption">Exploded view showing all components. The acoustic chamber around the speaker driver is the unsung hero. To ensure optimal sound quality, I had to seal the speaker while strategically allowing air pressure to escape and prevent vacuum formation.   </p>
   </div>
 
   <div class="slide">
     <img src="/assets/figures/headphonesCrossSection.png" alt="Headphones cross section">
-    <p class="slide-caption">Cross-sectional view of the headphones</p>
+    <p class="slide-caption">Cross-sectional view of the headphones. I had to coordinate across multiple subteams and iteratively refine requirements for critical components like PCB size, thermal management, and cable routing, all while fitting within the compact headphone enclosure. </p>
   </div>
 
   <div class="slide">
     <img src="/assets/figures/headphonesHumanHead.png" alt="Headphones on human head">
-    <p class="slide-caption">Headphones fit analysis on human head model</p>
+    <p class="slide-caption">Headphones fit analysis on human head model. Designing the headband WAS THE HARDEST PART. I redesigned and reprinted the headband at least 25 times, varying the shape, thickness, and material each iteration. I ultimately settled on Formlabs durable resin to achieve the perfect balance between flexibility and comfort. </p>
   </div>
 
   <div class="slide">
     <img src="/assets/figures/headphonesPaint.png" alt="Headphones painting">
-    <p class="slide-caption">Custom paint finish</p>
+    <p class="slide-caption">Custom paint finish at my makerspace</p>
   </div>
   
   <a class="prev" onclick="changeSlide(-1, 'slideshow2')">❮</a>
@@ -239,7 +243,9 @@ Capstone project! Designed and manufactured the complete mechanical parts for a 
 ---
 
 ## Gesture controlled RC car
-A car on omniwheels thats controlled with simply the movement of your arm
+A car on omniwheels thats controlled by simply moving your hand. This was made for my Mechatronics class. The focus of this class was to learn how to code a microcontroller from scratch and integrate different actuators, interrupts, sensors, and control policies. It also taught me component selection according to requirements.
+
+**Skills:** TI-MCU (C language), PID controller, CAD, Fabrication, Programming Sensors and Actutors 
 
 <div class="slideshow-container" id="slideshow3">
 
@@ -248,7 +254,7 @@ A car on omniwheels thats controlled with simply the movement of your arm
       <source src="/assets/figures/carBackandForth.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <p class="slide-caption">Demonstration of the car moving back and forth</p>
+    <p class="slide-caption">Demonstration of the car moving back and forth. I'm moving the IMU back and forth and the car moves accordingly.</p>
   </div>
 
   <div class="slide">
@@ -256,17 +262,20 @@ A car on omniwheels thats controlled with simply the movement of your arm
       <source src="/assets/figures/carWithWeight.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <p class="slide-caption">Testing the car with additional weight</p>
+    <p class="slide-caption">Testing the car with additional weight. I implemented a PD controller for the car's velocity as a function of the IMU's angle. Even with the additional weight, the car moves with consitent velocity</p>
   </div>
 
   <div class="slide">
-    <img src="/assets/figures/carOmniWheelsPic.png" alt="Omni wheels">
-    <p class="slide-caption">Omni wheels configuration</p>
+    <video controls>
+      <source src="/assets/figures/carSideways.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p class="slide-caption">I leveraged omniwheels and programmed the DC motors appropriately such that rolling the IMU results in sideways motion</p>
   </div>
 
   <div class="slide">
     <img src="/assets/figures/carDebuggingMCU.jpg" alt="Debugging MCU">
-    <p class="slide-caption">Debugging the microcontroller unit</p>
+    <p class="slide-caption"> Here i was debugging the microcontroller unit. Most important lesson was wire management and keeping track of GPIOs and other pins. </p>
   </div>
   
   <a class="prev" onclick="changeSlide(-1, 'slideshow3')">❮</a>
@@ -278,9 +287,9 @@ A car on omniwheels thats controlled with simply the movement of your arm
 ---
 
 ## Digit in MuJoCo
-Simulated Agility Robotics' Digit humanoid robot in MuJoCo, investigating walking behaviors and optimizing control parameters for robust bipedal locomotion.
+Simulated Agility Robotics' Digit humanoid robot in MuJoCo, investigating walking behaviors and Mujuco's terrain parameters. my PhD mentor was using NN to teach Digit to avoid elevated and irregular terrain. My goal was to design the terrain just right for Digit to barely walk. I also wrote an innovative algorithm to group objects for easier collision detection. 
 
-**Technologies:** Python, MuJoCo, Control Systems, Robotics
+**Skills:** ROS, Python, C++, Mujoco, Docker
 
 <div class="slideshow-container" id="slideshow5">
 
@@ -289,7 +298,7 @@ Simulated Agility Robotics' Digit humanoid robot in MuJoCo, investigating walkin
       <source src="/assets/figures/digitWalkingCloseup.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <p class="slide-caption">Close-up view of Digit robot walking in MuJoCo simulation</p>
+    <p class="slide-caption">Close-up view of Digit walking to get a better look at slip behavior and Mujoco's contact solver parameters</p>
   </div>
 
   <div class="slide">
@@ -297,7 +306,7 @@ Simulated Agility Robotics' Digit humanoid robot in MuJoCo, investigating walkin
       <source src="/assets/figures/digitWalkingSlope.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <p class="slide-caption">Digit walking on sloped terrain</p>
+    <p class="slide-caption">Digit walking on sloped terrain. It's learning it's behavior on slope (moreso to avoid it)</p>
   </div>
 
   <div class="slide">
@@ -305,12 +314,12 @@ Simulated Agility Robotics' Digit humanoid robot in MuJoCo, investigating walkin
       <source src="/assets/figures/digitWalkingWithParameters.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <p class="slide-caption">Walking with different parameter configurations</p>
+    <p class="slide-caption">Learning its gait placement on irregular terrain</p>
   </div>
 
   <div class="slide">
     <img src="/assets/figures/digitOptimization.png" alt="Digit optimization">
-    <p class="slide-caption">Parameter optimization results for walking behavior</p>
+    <p class="slide-caption">I also wrote an algorithm to group multiple objects together for collision avoidance. Digit discretizes every obstacle in front of it and runs a collision check and this gets redundant if there's a large object and Digit has to run a collision check for each and every point. With my algorithm, it groups all points into rectangles and does a single collision check for a rectangle as a whole. Improved speed by almost 10x</p>
   </div>
   
   <a class="prev" onclick="changeSlide(-1, 'slideshow5')">❮</a>
@@ -321,34 +330,34 @@ Simulated Agility Robotics' Digit humanoid robot in MuJoCo, investigating walkin
 
 ---
 
-## GelSight
+## [GelSight](https://www.gelsight.com/)
 Worked with tactile sensing technology to enable robots to perceive surface textures and deformations through touch, enhancing manipulation capabilities.
 
-**Technologies:** Python, Computer Vision, ROS
+**Technologies:** CAD, Fabrication, Polymer science, Actuator Design
 
 <div class="slideshow-container" id="slideshow6">
 
   <div class="slide active">
-    <video controls>
+    <video controls style="max-width: 60%; display: block; margin: 0 auto;">
       <source src="/assets/figures/gelsightGearPulley.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <p class="slide-caption">Gear pulley mechanism demonstration</p>
+    <p class="slide-caption">Designed a gear pulley mechanism for the parallel gripper for Digit Robot. This also allows precise reading of precise torque from servo motor to force in gelsight. The previous cable driven mechansim was causing many issues</p>
   </div>
 
   <div class="slide">
     <img src="/assets/figures/gelsightCablePulley.png" alt="GelSight cable pulley">
-    <p class="slide-caption">Cable pulley system design</p>
+    <p class="slide-caption">Cable pulley system design. I initially built this from a previous iteration but it was causing slip and slack issues</p>
   </div>
 
   <div class="slide">
     <img src="/assets/figures/gelsightPolymer.png" alt="GelSight polymer">
-    <p class="slide-caption">Polymer material used for tactile sensing</p>
+    <p class="slide-caption">Polymer material used for tactile sensing. I pulled vacuum from the solution and constructed polymers as clear as possible</p>
   </div>
 
   <div class="slide">
     <img src="/assets/figures/gelsightCreepyUncle.jpg" alt="GelSight application">
-    <p class="slide-caption">GelSight sensor application</p>
+    <p class="slide-caption">Me acting cool</p>
   </div>
   
   <a class="prev" onclick="changeSlide(-1, 'slideshow6')">❮</a>
