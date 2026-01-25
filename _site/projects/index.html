@@ -18,7 +18,7 @@
   <meta name="author" content="Saaketh Reddy">
   
 
-  <meta name="description" content="# My Projects ## Optimal Control Implemented various optimal control algorithms and simulations for robotic systems. **Skills:** Python, MATLAB, Control Theory, Optimization, Simulation Optimal control problem formulation and solution Your browser does not support the video tag. Three drones optimal control simulation Your browser does not support the video tag....">
+  <meta name="description" content="# My Projects ## Optimal Control Projects I have done for a course in optimal control offered by CMU by Zac Manchester. **Skills:** Julia and optimization Your browser does not support the video tag. Formulated multi-agent trajectory optimization with collision avoidance constraints. Implemented direct collocation using IPOPT solver using implicit...">
 
   
 
@@ -80,7 +80,7 @@
   
   <meta property="og:site_name" content="Saaketh Reddy">
   <meta property="og:title" content="Projects">
-  <meta property="og:description" content="# My Projects ## Optimal Control Implemented various optimal control algorithms and simulations for robotic systems. **Skills:** Python, MATLAB, Control Theory, Optimization, Simulation Optimal control problem formulation and solution Your browser does not support the video tag. Three drones optimal control simulation Your browser does not support the video tag....">
+  <meta property="og:description" content="# My Projects ## Optimal Control Projects I have done for a course in optimal control offered by CMU by Zac Manchester. **Skills:** Julia and optimization Your browser does not support the video tag. Formulated multi-agent trajectory optimization with collision avoidance constraints. Implemented direct collocation using IPOPT solver using implicit...">
 
   
 
@@ -97,7 +97,7 @@
   <meta name="twitter:creator" content="@">
 
   <meta property="twitter:title" content="Projects">
-  <meta property="twitter:description" content="# My Projects ## Optimal Control Implemented various optimal control algorithms and simulations for robotic systems. **Skills:** Python, MATLAB, Control Theory, Optimization, Simulation Optimal control problem formulation and solution Your browser does not support the video tag. Three drones optimal control simulation Your browser does not support the video tag....">
+  <meta property="twitter:description" content="# My Projects ## Optimal Control Projects I have done for a course in optimal control offered by CMU by Zac Manchester. **Skills:** Julia and optimization Your browser does not support the video tag. Formulated multi-agent trajectory optimization with collision avoidance constraints. Implemented direct collocation using IPOPT solver using implicit...">
 
   
 
@@ -233,47 +233,18 @@
 </style>
 
 <h2 id="optimal-control">Optimal Control</h2>
-<p>Implemented various optimal control algorithms and simulations for robotic systems.</p>
+<p>Projects I have done for a course in optimal control offered by CMU by Zac Manchester.</p>
 
-<p><strong>Skills:</strong> Python, MATLAB, Control Theory, Optimization, Simulation</p>
+<p><strong>Skills:</strong> Julia and optimization</p>
 
 <div class="slideshow-container" id="slideshow1">
-
-  <div class="slide active">
-    <img src="/assets/figures/OCHw1Q2.png" alt="Optimal Control Problem" />
-    <p class="slide-caption">Optimal control problem formulation and solution</p>
-  </div>
 
   <div class="slide">
     <video controls="">
       <source src="/assets/figures/OC3Drones.mp4" type="video/mp4" />
       Your browser does not support the video tag.
     </video>
-    <p class="slide-caption">Three drones optimal control simulation</p>
-  </div>
-
-  <div class="slide">
-    <video controls="">
-      <source src="/assets/figures/OCbrick.mp4" type="video/mp4" />
-      Your browser does not support the video tag.
-    </video>
-    <p class="slide-caption">Brick optimal control demonstration</p>
-  </div>
-
-  <div class="slide">
-    <video controls="">
-      <source src="/assets/figures/OCConvexMPC.mp4" type="video/mp4" />
-      Your browser does not support the video tag.
-    </video>
-    <p class="slide-caption">Convex Model Predictive Control implementation</p>
-  </div>
-
-  <div class="slide">
-    <video controls="">
-      <source src="/assets/figures/OCinfiniteHorizonLQR.mp4" type="video/mp4" />
-      Your browser does not support the video tag.
-    </video>
-    <p class="slide-caption">Infinite Horizon Linear Quadratic Regulator</p>
+    <p class="slide-caption">Formulated multi-agent trajectory optimization with collision avoidance constraints. Implemented direct collocation using IPOPT solver using implicit Hermite-Simpson integration to handle nonlinear dynamics with inequality and boundary constraints.</p>
   </div>
 
   <div class="slide">
@@ -281,7 +252,36 @@
       <source src="/assets/figures/OCTVQLR.mp4" type="video/mp4" />
       Your browser does not support the video tag.
     </video>
-    <p class="slide-caption">Time-Varying Quadratic Linear Regulator</p>
+    <p class="slide-caption">Implemented iterative LQR (DDP with Gauss Newton) for nonlinear trajectory optimization to solve a cart-pole swing-up maneuver. Deployed time-varying LQR tracking controller at higher frequency to compensate for model mismatch.</p>
+  </div>
+
+  <div class="slide">
+    <video controls="">
+      <source src="/assets/figures/OCConvexMPC.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+    <p class="slide-caption">Implemented a receding horizon Model Predictive Controller (MPC) for reference trajectory tracking with collision avoidance constraints and actuator saturation limits</p>
+  </div>
+
+   <div class="slide">
+    <video controls="">
+      <source src="/assets/figures/OCinfiniteHorizonLQR.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+    <p class="slide-caption">Solved a infinite horizon LQR problem for a cart-pole problem. Initial conditions started in a linearity valid region so was able to do basic LQR.</p>
+  </div>
+
+  <div class="slide">
+    <video controls="">
+      <source src="/assets/figures/OCbrick.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+    <p class="slide-caption">Wrote a log-domain interior point solver to optimize brick sliding dynamics with contact constraints. Employed log-domain variable substitutions for positivity enforcement ($\lambda = \sqrt{\rho} e^{-\sigma}$, $s = \sqrt{\rho} e^{\sigma}$) and barrier parameter continuation (updating $\rho$) with backward Euler time integration.</p>
+  </div>
+
+  <div class="slide active">
+    <img src="/assets/figures/OCHw1Q2.png" alt="Optimal Control Problem" />
+    <p class="slide-caption">Single-leg balance optimization for the UnitreeA1 quadruped. Formulated KKT conditions for equilibrium constraints and implemented Gauss-Newton optimization with line search to compute optimal joint configurations and control inputs.</p>
   </div>
   
   <a class="prev" onclick="changeSlide(-1, 'slideshow1')">❮</a>
@@ -293,9 +293,9 @@
 <hr />
 
 <h2 id="robotics">Robotics</h2>
-<p>Manipulator control and trajectory planning projects demonstrating robotic arm kinematics, dynamics, and path optimization.</p>
+<p>Implemented manipulator control and trajectory planning demonstrating robotic arm expertise in DH parameters, kinematics, dynamics, and path optimization. Also achieved maximum manipulability by doing gradient descent (last slide).</p>
 
-<p><strong>Skills:</strong> Python, MATLAB, Kinematics, Dynamics, Motion Planning, Manipulability Analysis</p>
+<p><strong>Skills:</strong> MATLAB, Simulink, PID Control, Trajectory Optimization, Manipulability Analysis</p>
 
 <div class="slideshow-container" id="slideshow2">
 
@@ -304,22 +304,29 @@
       <source src="/assets/figures/RoboDrawingWord.mp4" type="video/mp4" />
       Your browser does not support the video tag.
     </video>
-    <p class="slide-caption">Robotic manipulator drawing a word using trajectory planning</p>
+    <p class="slide-caption">Robotic manipulator drawing a word using trajectory planning and control methods. Constructed the robot in Simulink using pre-existing links and DH parameters.</p>
+  </div>
+
+  <div class="slide">
+    <img src="/assets/figures/RoboControlSchematic.png" alt="Control Schematic" />
+    <p class="slide-caption">Implemented a PID control schematic in Simulink. Also implemented gravity compensation in joint torques.</p>
+  </div>
+
+
+  <div class="slide">
+    <img src="/assets/figures/RobomanDrawing.png" alt="Roboman Drawing" />
+    <p class="slide-caption">Reference trajectory vs realized end effector trajectory.</p>
   </div>
 
   <div class="slide">
     <img src="/assets/figures/RoboJointTorques.png" alt="Robot Joint Torques" />
-    <p class="slide-caption">Joint torque analysis for robotic manipulator</p>
+    <p class="slide-caption">Joint torque analysis for robotic manipulator. The gain values I set in my control schametic are not accounted for real limits. You see spikes when end effector has to change letter and has a momentarily large error in task space.</p>
   </div>
 
-  <div class="slide">
-    <img src="/assets/figures/RobomanDrawing.png" alt="Roboman Drawing" />
-    <p class="slide-caption">Manipulator trajectory visualization</p>
-  </div>
 
   <div class="slide">
     <img src="/assets/figures/RoboManipulability.png" alt="Manipulability Analysis" />
-    <p class="slide-caption">Manipulability ellipsoid analysis for workspace optimization</p>
+    <p class="slide-caption">Manipulability ellipsoid analysis for workspace optimization. I optimize the manipulability by iterating over the manipulability gradient.</p>
   </div>
   
   <a class="prev" onclick="changeSlide(-1, 'slideshow2')">❮</a>
@@ -331,7 +338,7 @@
 <hr />
 
 <h2 id="digit-in-mujoco">Digit in MuJoCo</h2>
-<p>Simulated Agility Robotics’ Digit humanoid robot in MuJoCo, investigating walking behaviors and Mujuco’s terrain parameters. my PhD mentor was using NN to teach Digit to avoid elevated and irregular terrain. My goal was to design the terrain just right for Digit to barely walk. I also wrote an innovative algorithm for easier collision detection and grouping nearby objects.</p>
+<p>Simulated Agility Robotics’ Digit humanoid robot in MuJoCo, investigating walking behaviors and MuJoCo’s terrain parameters. My PhD mentor was using NN to teach Digit to avoid elevated and irregular terrain. My goal was to design the terrain just right for Digit to barely walk. I also wrote an innovative algorithm for easier collision detection and grouping nearby objects.</p>
 
 <p><strong>Skills:</strong> ROS, Python, C++, Mujoco, Docker</p>
 

@@ -26,7 +26,7 @@ This paper presents a terrain-aware invariant extended Kalman filter (InEKF) tha
 
 ### [Lidar Lab ~ Dr.Ye Zhao](https://lab-idar.gatech.edu/)
 
-*August 2022 – May 2025*
+*August 2022 – Present*
 
 - Implemented an Invariant Extended Kalman Filter (InEKF) for state estimation on the Agility Robotics' Digit, Unitree's G1 and Go2 robots in real time. [View on GitHub →](https://github.com/saakeechan/InEKF)
 
