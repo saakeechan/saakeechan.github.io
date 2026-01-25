@@ -19,6 +19,7 @@ navbar-links:
 # Build settings
 markdown: kramdown
 remote_theme: daattali/beautiful-jekyll
+katex: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

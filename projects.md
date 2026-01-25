@@ -105,7 +105,7 @@ Projects I have done for a course in optimal control offered by CMU and taught b
       <source src="/assets/figures/OCConvexMPC.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <p class="slide-caption">Implemented a receding horizon Model Predictive Controller (MPC) for reference trajectory tracking with collision avoidance constraints and actuator saturation limits</p>
+    <p class="slide-caption">Implemented a receding horizon Model Predictive Controller (MPC) with reference trajectory tracking with collision avoidance constraints and actuator saturation limits</p>
   </div>
 
    <div class="slide">
@@ -121,7 +121,7 @@ Projects I have done for a course in optimal control offered by CMU and taught b
       <source src="/assets/figures/OCbrick.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <p class="slide-caption">Wrote a log-domain interior point solver to optimize brick sliding dynamics with contact constraints. Employed log-domain variable substitutions for positivity enforcement ($\lambda = \sqrt{\rho} e^{-\sigma}$, $s = \sqrt{\rho} e^{\sigma}$) and barrier parameter continuation (updating $\rho$) with backward Euler time integration.</p>
+    <p class="slide-caption">Wrote a log-domain interior point solver to optimize brick sliding dynamics with contact constraints and backward Euler time integration.</p>
   </div>
 
   <div class="slide">
@@ -229,7 +229,7 @@ Simulated Agility Robotics' Digit humanoid robot in MuJoCo, investigating walkin
 ## Auriga
 An electromagnatic launching startup competing with SpaceX.
 
-**Skills** CAD, Electronics, Structural Analysis, Optics, Working 12+ hrs, Fiberglass Sheetlayup, Rapid Prototyping, Machining, First principle thinking, Design for X, etc  
+**Skills** CAD, Electronics, Structural Analysis, Optics, Working 12+ hrs every day, Fiberglass Sheetlayup, Rapid Prototyping, Machining, Electromagnetics, First principle thinking, Design for X, etc  
 
 <div class="slideshow-container" id="slideshow4">
 
@@ -305,12 +305,12 @@ An electromagnatic launching startup competing with SpaceX.
 ---
 
 ## Jellyfish inspired soft robot
-I designed and fabricated a jellyfish inspired soft robot that is magnetically actuated, so one can study the efficiency and thrust behavior of jellyfish using TOMO PIV.
+I designed and fabricated a jellyfish inspired soft robot that is magnetically actuated, so one can study the efficiency and thrust behavior of jellyfish using TOMO PIV.  
 [Link to article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=41cBkTsAAAAJ&sortby=pubdate&citation_for_view=41cBkTsAAAAJ:mVmsd5A6BfQC)  
 
 [Link to Linkedin Post](https://www.linkedin.com/posts/mohammad-mohaghar-58254180_fluiddynamics-softrobotics-biomimicry-ugcPost-7317370218140340226-VcsT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACy4wIsBWSE2KEbvIityOIl0HIDmpJLNE54) 
 
-**Skills:** Leadership, CAD, Rapid Prototyping, Silicone-based polymers 
+**Skills:** Leadership, CAD, Rapid Prototyping, Silicone-based polymers, Electromagnetics
 
 <div class="slideshow-container" id="slideshow5">
 
@@ -508,7 +508,7 @@ A car on omniwheels thats controlled by simply moving your hand. This was made f
 ---
 
 ## [GelSight](https://www.gelsight.com/)
-Worked with tactile sensing technology to enable robots to perceive surface textures and deformations through touch, enhancing manipulation capabilities.
+Worked with tactile sensing technology to enable robots to perceive surface textures and deformations through touch, enhancing manipulation capabilities. Mostly responsible for the parallet gripper that embodied gelsight
 
 **Technologies:** CAD, Fabrication, Polymer science, Actuator Design
 
