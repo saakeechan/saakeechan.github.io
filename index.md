@@ -108,10 +108,10 @@ permalink: /
     
     <div class="explore-section">
       <ul class="explore-links">
-        <li><a href="/education"><span class="link-title">📚 Education</span><span class="link-description">My academic background and coursework</span></a></li>
-        <li><a href="/work-experience"><span class="link-title">💼 Work Experience</span><span class="link-description">Places I got paid for my work</span></a></li>
-        <li><a href="/research"><span class="link-title">🔬 Research</span><span class="link-description">Publications, working papers, and research interests</span></a></li>
         <li><a href="/projects"><span class="link-title">🚀 Projects</span><span class="link-description">A showcase of projects I worked on</span></a></li>
+        <li><a href="/research"><span class="link-title">🔬 Research</span><span class="link-description">Publications, working papers, and research interests</span></a></li>
+        <li><a href="/work-experience"><span class="link-title">💼 Work Experience</span><span class="link-description">Places I got paid for my work</span></a></li>
+        <li><a href="/education"><span class="link-title">📚 Education</span><span class="link-description">My academic background and coursework</span></a></li>
       </ul>
     </div>
 
@@ -119,7 +119,7 @@ permalink: /
     <p>
     I am currently pursuing a Master’s degree in Mechanical Engineering at the Georgia Institute of Technology, where my research interests lies towards control systems, locomotion, manipulation, state estimation, optimization, and robot-focused mechanical design. I also earned my Bachelor’s degree in Mechanical Engineering from Georgia Tech.
  
-    During my undergraduate years, I explored a broad range of mechanical engineering disciplines through coursework, research, and student organizations. Over time, this exploration converged into a strong interest in robotics and autonomous systems, which became clear during the summer of 2025. Since then, I have focused my work on the mathematical and control-theoretic foundations of robotic systems.
+    During my undergraduate years, I explored a broad range of mechanical engineering disciplines through coursework, research, and student organizations. Over time, this exploration converged into a strong interest in robotics and autonomous systems, which became clear during the summer of 2025.
     </p>
 
     <p>
