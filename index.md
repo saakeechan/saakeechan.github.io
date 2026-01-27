@@ -117,7 +117,7 @@ permalink: /
 <div class="about-container">
   <div class="about-text">
     
-    <h1 class="welcome-title">Hello! Welcome to a work in progress.</h1>
+    <h1 class="welcome-title">Welcome to a work in progress!</h1>
     
     <div class="explore-section">
       <ul class="explore-links">
