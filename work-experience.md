@@ -11,21 +11,22 @@ permalink: /work-experience/
 **Duration:** Fall 2025 - Present   
 **Location:** Atlanta, GA
 
-Led weekly recitation sessions and office hours across all four course sections. Built a foundation in control systems for undergraduate students as well as my self. Mastered topics in classical control, system modeling (mechanical, electrical, electro-mechanical, fluid, and thermal), Laplace and state-space methods, time/frequency response, vibrations, feedback control, stability, and steady-state error analysis.
+- Led weekly recitation sessions and office hours across all four course sections.
+- Mastered topics in classical control, system modeling (mechanical, electrical, electro-mechanical, fluid, and thermal), Laplace and state-space methods, time/frequency response, vibrations, feedback control, stability, and steady-state error analysis.
 
 ---
 
 ### [Flowers Invention Studio](https://inventionstudio.gatech.edu/)
 **Position:** Prototyping Instructor  
 **Duration:** Fall 2023 - Present  
-**Location:** Atlanta, Ga 
+**Location:** Atlanta, GA 
 
-Train 20+ students weekly on the use of various rapid prototyping tools and Design for X.  
- Tools include 3D printers, waterjet, electronic equipment, metal & wood working tools, and many more.
+- Train 20+ students weekly on the use of various rapid prototyping tools and Design for X.  
+ - Tools include 3D printers, waterjet, electronic equipment, metal & wood working tools, and many more.
 
 ---
 
-### [Poster Printing Services - Georgia tech](https://library.gatech.edu/poster-request)
+### [Poster Printing Services - Georgia Tech](https://library.gatech.edu/poster-request)
 **Position:** Student Assistant  
 **Duration:** Summer 2025    
 **Location:** Atlanta, GA 
@@ -54,17 +55,19 @@ Worked at a customer service front desk assisting clients with printing, editing
 
 ---
 
-### [Sandia National Labs](https://www.sandia.gov/)
+### [Sandia National Labs](https://www.sandia.gov/)*
 **Position:** R&D Mechanical Engineering Intern  
 **Duration:** Summer 2023 & Summer 2024  
 **Location:** Livermore, CA 
 
-#### Unfortunately I can't showcase the work for security purposes ####
+
 
 - Designed 3 unique fixtures for vibration testing of telemetry assemblies. Performed modal & structural analysis in Creo to ensure fixture integrity. Produced machine drawings with GD&T annotations 
 - Partnered with Pelican to design and engineer a foam shipping container, safeguarding a multi-million-dollar telemetry assembly from impacts, vibrations, and ESD during transport 
--  Defined end-to-end requirements and test procedures for thermal and lifting-ring strength evaluations of a classified gas detector by thoroughly reviewing and synthesizing numerous DoD test methods and specifications, then designed a compliant test approach from the ground up.
+-  Defined end-to-end requirements and test procedures for thermal and lifting-ring strength evaluations of a classified gas detector by thoroughly reviewing and synthesizing numerous DoD test methods and specifications, then designed a compliant test approach from the ground up
 - Automated vibration & shock test data analysis using MATLAB, cutting work time by 75% and saving 20+ hours weekly 
+
+*Unfortunately I can't showcase the work for security purposes
 
 
 ---

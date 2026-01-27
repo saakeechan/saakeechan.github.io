@@ -33,10 +33,15 @@ permalink: /
   }
   .welcome-title {
     text-align: center;
-    font-size: 2.5em;
+    font-size: 2em;
     font-weight: 700;
     margin-bottom: 30px;
     color: #333;
+    overflow: hidden;
+    border-right: 2px solid #333;
+    white-space: nowrap;
+    animation: typing 4s steps(34, end), blink-caret 0.75s step-end infinite;
+    line-height: 1.3;
   }
   .explore-links {
     display: grid;
@@ -83,6 +88,14 @@ permalink: /
     font-weight: normal;
     margin-top: 8px;
   }
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: #333 }
+  }
   @media (max-width: 768px) {
     .about-container {
       flex-direction: column;
@@ -104,22 +117,20 @@ permalink: /
 <div class="about-container">
   <div class="about-text">
     
-    <h1 class="welcome-title">Hello! Welcome to my page</h1>
+    <h1 class="welcome-title">Hello! Welcome to a work in progress.</h1>
     
     <div class="explore-section">
       <ul class="explore-links">
-        <li><a href="/projects"><span class="link-title">🚀 Projects</span><span class="link-description">A showcase of projects I worked on</span></a></li>
+        <li><a href="/projects"><span class="link-title">🚀 Projects</span><span class="link-description">Shelf of technical things</span></a></li>
         <li><a href="/research"><span class="link-title">🔬 Research</span><span class="link-description">Publications, working papers, and research interests</span></a></li>
-        <li><a href="/work-experience"><span class="link-title">💼 Work Experience</span><span class="link-description">Places I got paid for my work</span></a></li>
-        <li><a href="/education"><span class="link-title">📚 Education</span><span class="link-description">My academic background and coursework</span></a></li>
+        <li><a href="/work-experience"><span class="link-title">💼 Work Experience</span><span class="link-description">Places which paid for my work</span></a></li>
+        <li><a href="/education"><span class="link-title">📚 Education</span><span class="link-description">Academic background and coursework</span></a></li>
       </ul>
     </div>
 
     <h2>About Me</h2>
     <p>
-    I am currently pursuing a Master’s degree in Mechanical Engineering at the Georgia Institute of Technology, where my research interests lies towards control systems, locomotion, manipulation, state estimation, optimization, and robot-focused mechanical design. I also earned my Bachelor’s degree in Mechanical Engineering from Georgia Tech.
- 
-    During my undergraduate years, I explored a broad range of mechanical engineering disciplines through coursework, research, and student organizations. Over time, this exploration converged into a strong interest in robotics and autonomous systems, which became clear during the summer of 2025.
+    I am pursuing a Master’s degree in Mech Engg at Georgia Tech, where I also earned my bachelors degree. During my undergraduate years, I explored a broad range of mechanical engineering disciplines through coursework, research, and student organizations. I've enjoyed my time dealing with the nuts and bolts of the mechanical world, but I've since pivoted to praying for covergence in the world of robotics. My research interests lies towards control systems, locomotion, manipulation, state estimation, optimization, and robot-focused mechanical design.
     </p>
 
     <p>
@@ -128,7 +139,7 @@ permalink: /
 
     <h2>Hobbies</h2>
     <p>
-    My hobbies include swimming, basketball, squash, table tennis, rock climbing, chess, hiking, pool, movies, lifting,.....(pretty much anything physical)
+    My hobbies include swimming, basketball, squash, table tennis, rock climbing, chess, hiking, pool, movies, lifting ...pretty much anything physical
     </p>
 
 
@@ -155,3 +166,15 @@ permalink: /
     </div>
   </div>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const title = document.querySelector('.welcome-title');
+  title.addEventListener('click', function() {
+    this.style.animation = 'none';
+    setTimeout(() => {
+      this.style.animation = 'typing 3.5s steps(25, end), blink-caret 0.75s step-end infinite';
+    }, 10);
+  });
+});
+</script>

@@ -18,17 +18,17 @@ This paper presents a terrain-aware invariant extended Kalman filter (InEKF) tha
 - Developed a MATLAB-based framework to optimize signal detection using the smoothed pseudo Wigner–Ville distribution [(SPWVD)](https://en.wikipedia.org/wiki/Modified_Wigner_distribution_function)
 - Conducted a quantitative comparative study against alternative time–frequency representations to evaluate the impact of the optimization
 
-**Keywords:** Keywords: underwater sonar, time-frequency analysis, spectral concentration, mine countermeasures
+**Keywords:** underwater sonar, time-frequency analysis, spectral concentration, mine countermeasures
 
 ---
 
-## Research Experience
+# Research Experience
 
 ### [Lidar Lab ~ Dr.Ye Zhao](https://lab-idar.gatech.edu/)
 
 *August 2022 – Present*
 
-- Implemented an Invariant Extended Kalman Filter (InEKF) for state estimation on the Agility Robotics' Digit, Unitree's G1 and Go2 robots in real time. [View on GitHub →](https://github.com/saakeechan/InEKF)
+- Implemented an Invariant Extended Kalman Filter (InEKF) for state estimation on the Agility Robotics' Digit, Unitree's G1 and Go2 robots in real time [View on GitHub →](https://github.com/saakeechan/InEKF)
 
 - Conducted an investigative study of MuJoCo simulation parameters to analyze their effects on Digit's walking behaviors
 - Optimized path planning and obstacle avoidance by implementing object clustering, reducing processing time by 80%
@@ -49,7 +49,7 @@ This paper presents a terrain-aware invariant extended Kalman filter (InEKF) tha
 
 ---
 
-## Research Interests
+# Research Interests
 
 - Control Theory and Optimization
 - Machine Learning Applications in Mechanical Systems

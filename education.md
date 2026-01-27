@@ -36,9 +36,9 @@ permalink: /education/
 
 <!-- PhD Section (outside Georgia Tech background) -->
 ## Doctor of Philosophy in Mechanical Engineering
-**[TBD University]**  
+**[University TBD]**  
 *Expected Start: Spring 2027*  
-**Status:** Planning/Applying
+**Status:** Applying
 
 ---
 <!-- Georgia Tech Section with background image -->

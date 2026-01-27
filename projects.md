@@ -78,7 +78,7 @@ permalink: /projects/
 </style>
 
 ## Optimal Control
-Projects I have done for a course in optimal control offered by CMU and taught by Zac Manchester.
+Projects done for a course in *Optimal Control* offered by CMU and taught by Zac Manchester.
 
 **Skills:** Julia, LQR, MPC, DDP, SQP, DIRCOL and general optimization
 
@@ -229,7 +229,7 @@ Simulated Agility Robotics' Digit humanoid robot in MuJoCo, investigating walkin
 ## Auriga
 A startup competing with SpaceX by electromagnetically launching satellites into space at Mach 6 speed.
 
-**Skills** CAD, Electronics, Structural Analysis, Optics, Working 12+ hrs every day, Fiberglass Sheetlayup, Rapid Prototyping, Machining, Electromagnetics, First principle thinking, Design for X, etc  
+**Skills:** CAD, Electronics, Structural Analysis, Optics, Fiberglass Sheetlayup, Rapid Prototyping, Machining, Electromagnetics, First principle thinking, Design for X, etc  
 
 <div class="slideshow-container" id="slideshow4">
 
@@ -307,7 +307,6 @@ A startup competing with SpaceX by electromagnetically launching satellites into
 ## Jellyfish inspired soft robot
 I designed and fabricated a jellyfish inspired soft robot that is magnetically actuated, so one can study the efficiency and thrust behavior of jellyfish using TOMO PIV.  
 [Link to article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=41cBkTsAAAAJ&sortby=pubdate&citation_for_view=41cBkTsAAAAJ:mVmsd5A6BfQC)  
-
 [Link to Linkedin Post](https://www.linkedin.com/posts/mohammad-mohaghar-58254180_fluiddynamics-softrobotics-biomimicry-ugcPost-7317370218140340226-VcsT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACy4wIsBWSE2KEbvIityOIl0HIDmpJLNE54) 
 
 **Skills:** Leadership, CAD, Rapid Prototyping, Silicone-based polymers, Electromagnetics

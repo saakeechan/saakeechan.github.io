@@ -8,7 +8,7 @@ permalink: /cv/
 
 <div style="text-align: center; margin-bottom: 20px;">
   <a href="/assets/files/Saaketh Reddy CV.pdf" download style="display: inline-block; padding: 12px 30px; background-color: #667eea; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.1em; margin: 10px;">
-    📥 Download CV
+    📥 Download C.V.
   </a>
 </div>
 
