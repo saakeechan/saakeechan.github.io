@@ -37,11 +37,9 @@ permalink: /
     font-weight: 700;
     margin-bottom: 30px;
     color: #333;
-    overflow: hidden;
-    border-right: 2px solid #333;
-    white-space: nowrap;
-    animation: typing 4s steps(34, end), blink-caret 0.75s step-end infinite;
-    line-height: 1.3;
+  }
+  .cursor {
+    animation: blink 1s infinite;
   }
   .explore-links {
     display: grid;
@@ -88,13 +86,9 @@ permalink: /
     font-weight: normal;
     margin-top: 8px;
   }
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: #333 }
+  @keyframes blink {
+    0%, 50% { opacity: 1; }
+    51%, 100% { opacity: 0; }
   }
   @media (max-width: 768px) {
     .about-container {
@@ -166,6 +160,52 @@ permalink: /
     </div>
   </div>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const title = document.querySelector('.welcome-title');
+  const lines = ["Hello! Welcome to", "a work in progress."];
+  let lineIndex = 0;
+  let charIndex = 0;
+  let typedText = '';
+  title.innerHTML = '<span class="cursor">|</span>';
+
+  function typeWriter() {
+    if (lineIndex < lines.length) {
+      if (charIndex < lines[lineIndex].length) {
+        typedText += lines[lineIndex].charAt(charIndex);
+        title.innerHTML = typedText + '<span class="cursor">|</span>';
+        charIndex++;
+        setTimeout(typeWriter, 100);
+      } else {
+        if (lineIndex < lines.length - 1) {
+          typedText += '<br>';
+          title.innerHTML = typedText + '<span class="cursor">|</span>';
+        }
+        lineIndex++;
+        charIndex = 0;
+        setTimeout(typeWriter, 500);
+      }
+    } else {
+      // Remove cursor after typing is done
+      setTimeout(() => {
+        title.innerHTML = typedText;
+      }, 1000);
+    }
+  }
+
+  typeWriter();
+
+  // Optional: Click to restart
+  title.addEventListener('click', function() {
+    lineIndex = 0;
+    charIndex = 0;
+    typedText = '';
+    title.innerHTML = '<span class="cursor">|</span>';
+    typeWriter();
+  });
+});
+</script>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
