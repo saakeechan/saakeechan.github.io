@@ -13,6 +13,8 @@ This paper presents a terrain-aware invariant extended Kalman filter (InEKF) tha
 
 ---
 
+### Time-Frequency Spectral Optimization
+
 [Wendy N. Newcomb, Saaketh Reddy, Aprameya Satish, Alessio Medda; Time-frequency spectral optimization of underwater sonar acoustic returns for the purpose of characterization using spectral descriptors J. Acoust. Soc. Am. 1 October 2024; 156 (4_Supplement): A25–A26](https://doi.org/10.1121/10.0034982)
 
 - Developed a MATLAB-based framework to optimize signal detection using the smoothed pseudo Wigner–Ville distribution [(SPWVD)](https://en.wikipedia.org/wiki/Modified_Wigner_distribution_function)

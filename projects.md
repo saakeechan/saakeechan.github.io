@@ -77,6 +77,18 @@ permalink: /projects/
   }
 </style>
 
+## Convexifying Contacts in Factor Graph Smoothing for Legged Robots
+
+Reliable state estimation for a legged robot depends on knowing when each foot is in contact with the ground. Noisy contact detections and foot slip can violate the assumption that a stance foot remains stationary, introducing errors into the estimated trajectory. In this project, we refined the discrete contact switching sequence for the Unitree G1 using convex optimization alongside GTSAM's fixed-lag factor graph smoother.
+
+We relaxed binary contact states from {0, 1} to continuous values in [0, 1]. Holding the current trajectory estimate fixed made the foot velocity costs linear in these contact variables. We then expressed absolute-value penalties on deviations from the initial contact sequence and on changes between consecutive timesteps using auxiliary variables and linear inequalities, yielding a linear program (LP). After solving the LP, we applied hysteresis thresholds to recover discrete contacts and fed them back into the smoother. Across three datasets, the report shows an average 39.9% reduction in position error relative to baseline factor graph smoothing.
+
+**Skills:** Convex Optimization, Linear Programming, State Estimation, Factor Graphs, GTSAM, Python, CVXPY, HiGHS
+
+<p><a href="{{ '/assets/files/finalProject%20(4).pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Read the project report (PDF, opens in a new tab)</a></p>
+
+---
+
 ## Optimal Control
 Projects done for a course in *Optimal Control* offered by CMU and taught by Zac Manchester.
 
